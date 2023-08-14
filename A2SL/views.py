@@ -122,7 +122,7 @@ def recognition(request):
 
 
 
-print("test")
+
 
 def signup_view(request):
 	if request.method == 'POST':
