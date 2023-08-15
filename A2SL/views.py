@@ -14,7 +14,7 @@ import operator
 import cv2
 import sys, os
 
-import pandas 
+
 import csv
 import copy
 import cv2 as cv
